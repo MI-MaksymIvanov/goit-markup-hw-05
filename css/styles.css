@@ -552,10 +552,9 @@ a {
   align-items: center;
   justify-content: center;
   flex-direction: row;
-  gap: 16px;
   border-radius: 4px;
   padding: 8px 24px;
-  width: 165px;
+  min-width: 165px;
   height: 40px;
   font-weight: 500;
   font-size: 16px;
@@ -570,4 +569,5 @@ a {
 
 .subscribe-form-icon {
   fill: #ffffff;
+  margin-left: 16px;
 }
