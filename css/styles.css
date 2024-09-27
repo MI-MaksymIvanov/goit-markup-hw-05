@@ -546,3 +546,28 @@ a {
 .subscribe-form-input::placeholder {
   color: #ffffff;
 }
+
+.subscribe-form-submit {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 16px;
+  border-radius: 4px;
+  padding: 8px 24px;
+  width: 165px;
+  height: 40px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  text-align: center;
+  color: #ffffff;
+  cursor: pointer;
+  background: #4d5ae5;
+  border: none;
+}
+
+.subscribe-form-icon {
+  fill: #ffffff;
+}
