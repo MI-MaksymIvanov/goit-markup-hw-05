@@ -650,6 +650,10 @@ a {
   margin-bottom: 8px;
 }
 
+.review-form-field-wrapper:nth-child(4) {
+  margin-bottom: 16px; /* Відступ після четвертого поля */
+}
+
 .review-form-field-label {
   display: block;
   font-family: "Roboto", sans-serif;
@@ -710,7 +714,6 @@ a {
   color: rgba(46, 47, 66, 0.4);
   outline: transparent;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  margin-bottom: 16px;
 }
 
 .review-form-comment::placeholder {
