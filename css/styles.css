@@ -696,7 +696,7 @@ a {
   fill: #4d5ae5;
 }
 
-.reviw-form-comment {
+.review-form-comment {
   border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 4px;
   width: 100%;
@@ -713,10 +713,10 @@ a {
   margin-bottom: 16px;
 }
 
-.reviw-form-comment::placeholder {
+.review-form-comment::placeholder {
   color: rgba(46, 47, 66, 0.4);
 }
 
-.reviw-form-comment:focus {
+.review-form-comment:focus {
   border-color: #4d5ae5;
 }
