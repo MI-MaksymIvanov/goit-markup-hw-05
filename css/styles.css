@@ -650,8 +650,8 @@ a {
   margin-bottom: 8px;
 }
 
-.review-form-field-wrapper:nth-child(4) {
-  margin-bottom: 16px; /* Відступ після четвертого поля */
+.extra-margin {
+  margin-bottom: 16px;
 }
 
 .review-form-field-label {
